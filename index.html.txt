@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Raies</title>
+</head>
+<body>
+<h1>Sample</h1>
+<img src="./bg.jpg" alt=''/>
+</body>
+</html>
